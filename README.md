@@ -1,9 +1,8 @@
-# Conference and Events in AI, ML, Tech, Startup and Healthcare
+# 📅 2026 Tech, AI, and Startup Conferences
 
-A curated list of upcoming conferences and events for 2026, 
-focusing on Artificial Intelligence, Machine Learning, Healthcare, and the Startup ecosystem.
+A curated list of upcoming conferences and events for 2026, focusing on Artificial Intelligence, Machine Learning, Healthcare, and the Startup ecosystem.
 
-## Table of Contents
+## 📌 Table of Contents
 * [AI & Machine Learning](#-ai--machine-learning)
 * [Startup & Innovation](#-startup--innovation)
 * [Medicine & Healthcare](#-medicine--healthcare)
@@ -12,87 +11,141 @@ focusing on Artificial Intelligence, Machine Learning, Healthcare, and the Start
 
 ---
 
-## AI & Machine Learning
+## 🤖 AI & Machine Learning
 
-### Europe & Switzerland
-| Event | Date | Location | Link |
-| :--- | :--- | :--- | :--- |
-| **AI & Tech Networking** | Jan 20, 2026 | Zurich, CH | [Link](https://www.eventbrite.com/e/ai-tech-networking-zurich-tickets-1965146494064) |
-| **AI House Davos** | Jan 2026 | Davos, CH | [Link](https://www.aihousedavos.com/) |
-| **Zurich AI Meetup** | Feb 5, 2026 | Zurich, CH | [Link](https://www.eventbrite.com/e/the-zurich-ai-meetup-2026-tickets-1733597449639) |
-| **Applied ML Days (AMLD)** | Feb 10–12, 2026 | Lausanne, CH | [Link](https://2026.appliedmldays.org/) |
-| **Swiss Cyber Security Days** | Feb 17–18, 2026 | Bern, CH | [Link](https://scsd.ch/de) |
-| **IASEAI (Safe & Ethical AI)** | Feb 24–26, 2026 | Paris, FR | [Link](https://www.iaseai.org/our-programs/iaseai26) |
-| **GenAI Zurich** | April 1–2, 2026 | Zurich, CH | [Link](https://www.genaizurich.ch/) |
-| **Mobility & AI Conference** | April 14–15, 2026 | Munich, DE | [Link](https://www.mobility-ai-conference.com/) |
-| **HPC-AI Advisory Council** | April 20–23, 2026 | Locarno, CH | [Link](https://www.cscs.ch/events/upcoming-events/event-detail) |
-| **Uphill Conf** | May 7–8, 2026 | Bern, CH | [Link](https://www.uphillconf.com/) |
-| **The Responsible AI Forum** | May 19–20, 2026 | Munich, DE | [Link](https://www.ieai.sot.tum.de/event/the-responsible-ai-forum-2026/) |
-| **Zurich AI Conference** | May 28, 2026 | Zurich, CH | [Link](https://www.eventbrite.com/e/the-zurich-ai-conference-2026-tickets-1978887895967) |
-| **IAPP AI Governance Global** | June 1–4, 2026 | Dublin, IE | [Link](https://iapp.org/conference/iapp-aigg-europe) |
-| **MLCon** | June 22–26, 2026 | Munich, DE | [Link](https://mlconference.ai/munich/) |
-| **AI World Congress** | June 23–24, 2026 | London, UK | [Link](https://aiconference.london/) |
-| **AI for Good Global Summit** | July 7–10, 2026 | Geneva, CH | [Link](https://aiforgood.itu.int/summit26/) |
-| **Raise Summit** | July 8–9, 2026 | Paris, FR | [Link](https://www.raisesummit.com/) |
-| **IJCAI-ECAI 2026** | Aug 15–21, 2026 | Bremen, DE | [Link](https://2026.ijcai.org/) |
-| **ECCV (Computer Vision)** | Sept 8–13, 2026 | Malmö, SE | [Link](https://eccv.ecva.net/) |
-| **AI Conference Amsterdam** | Sept 22–24, 2026 | Amsterdam, NL | [Link](https://humanx.co/europe/) |
-| **AI+X Summit** | Oct 1, 2026 | Zurich, CH | [Link](https://www.plusx.ai/) |
-| **EMNLP 2026** | Oct 24–29, 2026 | Budapest, HU | [Link](https://2025.emnlp.org/) |
-| **Swiss AI Summit** | Nov 17, 2026 | Zurich, CH | [Link](https://www.swissaisummit.com/) |
+### 🇪🇺 Europe & Switzerland
+* **[AI & Tech Networking Zürich](https://www.eventbrite.com/e/ai-tech-networking-zurich-tickets-1965146494064)**
+    * *Date:* January 20, 2026 (18:00 – 21:00)
+    * *Location:* Zurich, Switzerland
+* **[AI House Davos 2026](https://www.aihousedavos.com/)**
+    * *Date:* January 2026 (During WEF)
+    * *Location:* Davos, Switzerland
+* **[The Zurich AI Meetup 2026](https://www.eventbrite.com/e/the-zurich-ai-meetup-2026-tickets-1733597449639)**
+    * *Date:* February 5, 2026 (18:00 – 21:00)
+    * *Location:* Zurich, Switzerland
+* **[Applied Machine Learning Days (AMLD)](https://2026.appliedmldays.org/)**
+    * *Date:* February 10–12, 2026
+    * *Location:* SwissTech Convention Center, EPFL Lausanne, Switzerland
+* **[Swiss Cyber Security Days](https://scsd.ch/de)**
+    * *Date:* February 17–18, 2026
+    * *Location:* Bern, Switzerland
+* **[IASEAI (Safe & Ethical AI)](https://www.iaseai.org/our-programs/iaseai26)**
+    * *Date:* February 24–26, 2026
+    * *Location:* UNESCO House, Paris, France
+* **[GenAI Zurich](https://www.genaizurich.ch/)**
+    * *Date:* April 1–2, 2026
+    * *Location:* Zurich, Switzerland
+* **[Mobility & AI Conference](https://www.mobility-ai-conference.com/)**
+    * *Date:* April 14–15, 2026
+    * *Location:* Munich, Germany
+* **[HPC-AI Advisory Council Swiss Conference](https://www.cscs.ch/events/upcoming-events/event-detail)**
+    * *Date:* April 20–23, 2026
+    * *Location:* Locarno, Switzerland
+* **[Uphill Conf](https://www.uphillconf.com/)**
+    * *Date:* May 7–8, 2026
+    * *Location:* Bern, Switzerland
+* **[The Responsible AI Forum 2026](https://www.ieai.sot.tum.de/event/the-responsible-ai-forum-2026/)**
+    * *Date:* May 19–20, 2026
+    * *Location:* Munich, Germany
+* **[The Zurich AI Conference 2026](https://www.eventbrite.com/e/the-zurich-ai-conference-2026-tickets-1978887895967)**
+    * *Date:* May 28, 2026 (18:00 – 21:00)
+    * *Location:* Zurich, Switzerland
+* **[IAPP AI Governance Global Europe](https://iapp.org/conference/iapp-aigg-europe)**
+    * *Date:* June 1–4, 2026
+    * *Location:* Dublin, Ireland
+* **[MLCon: The Event for Generative AI & ML](https://mlconference.ai/munich/)**
+    * *Date:* June 22–26, 2026
+    * *Location:* Holiday Inn Munich City Center, Germany
+* **[AI World Congress](https://aiconference.london/)**
+    * *Date:* June 23–24, 2026
+    * *Location:* London, UK
+* **[AI for Good Global Summit](https://aiforgood.itu.int/summit26/)**
+    * *Date:* July 7–10, 2026
+    * *Location:* Geneva, Switzerland
+* **[Raise Summit](https://www.raisesummit.com/)**
+    * *Date:* July 8–9, 2026
+    * *Location:* Le Carrousel du Louvre, Paris, France
+* **[IJCAI-ECAI 2026](https://2026.ijcai.org/)**
+    * *Date:* August 15–21, 2026
+    * *Location:* Bremen, Germany
+* **[ECCV: European Conference on Computer Vision](https://eccv.ecva.net/)**
+    * *Date:* September 8–13, 2026
+    * *Location:* Malmö, Sweden
+* **[AI Conference (HumanX Europe)](https://humanx.co/europe/)**
+    * *Date:* September 22–24, 2026
+    * *Location:* Amsterdam, Netherlands
+* **[AI+X Summit](https://www.plusx.ai/)**
+    * *Date:* October 1, 2026
+    * *Location:* Zurich, Switzerland
+* **[EMNLP 2026](https://2025.emnlp.org/)**
+    * *Date:* October 24–29, 2026
+    * *Location:* Budapest, Hungary
+* **[Swiss AI Summit](https://www.swissaisummit.com/)**
+    * *Date:* November 17, 2026
+    * *Location:* Zurich, Switzerland
+* **[EurIPS 2026](https://ellis.eu/news/eurips-2026-call-for-expressions-of-interest-venue-proposals)**
+    * *Date:* TBD
+    * *Location:* TBD (Europe)
 
-### Americas
-| Event | Date | Location | Link |
-| :--- | :--- | :--- | :--- |
-| **CVPR 2026** | June 3–7, 2026 | Denver, CO, USA | [Link](https://cvpr.thecvf.com/) |
-| **ACL 2026** | July 2–7, 2026 | San Diego, CA, USA | [Link](https://2026.aclweb.org/) |
-| **ICLR 2026** | TBD | Rio de Janeiro, BR | [Link](https://iclr.cc/) |
+### 🇺🇸 Americas
+* **[CVPR 2026](https://cvpr.thecvf.com/)**
+    * *Date:* June 3–7, 2026
+    * *Location:* Denver, CO, USA
+* **[ACL 2026](https://2026.aclweb.org/)**
+    * *Date:* July 2–7, 2026
+    * *Location:* San Diego, CA, USA
+* **[ICLR 2026](https://iclr.cc/)**
+    * *Date:* TBD
+    * *Location:* Riocentro Convention Center, Rio de Janeiro, Brazil
 
-### Asia & Oceania
-| Event | Date | Location | Link |
-| :--- | :--- | :--- | :--- |
-| **ICML 2026** | July 6–11, 2026 | Seoul, KR | [Link](https://icml.cc/) |
-| **NeurIPS 2026** | Dec 6–12, 2026 | Sydney, AU | [Link](https://neurips.cc/) |
+### 🌏 Asia & Oceania
+* **[ICML 2026](https://icml.cc/)**
+    * *Date:* July 6–11, 2026
+    * *Location:* Seoul, South Korea
+* **[NeurIPS 2026](https://neurips.cc/)**
+    * *Date:* December 6–12, 2026
+    * *Location:* Sydney, Australia
 
 ---
 
-## Startup & Innovation
-*Focusing on the Swiss Startup ecosystem.*
-
+## 🚀 Startup & Innovation
 * **[Founders Day](https://swissstartupassociation.ch/founders-day-2026/)**
     * *Date:* April 9, 2026 (10:00 – 18:30)
-    * *Location:* Google Campus, Zurich
-* **HealthTech Startup Roadshow**
-    * *Location:* Switzerland
-    * [Website](https://www.greaterzuricharea.com/en/events/healthtech-startup-roadshow-switzerland-2026)
-* **Startup Nights 2026**
-    * *Date:* Nov 5–6, 2026
-    * *Location:* Eulachhallen Winterthur
-    * [Website](https://www.startup-nights.ch/)
+    * *Location:* Google Campus, Europaallee, Zurich
+* **[HealthTech Startup Roadshow](https://www.greaterzuricharea.com/en/events/healthtech-startup-roadshow-switzerland-2026)**
+    * *Date:* TBD 2026
+    * *Location:* Greater Zurich Area, Switzerland
+* **[Startup Nights](https://www.startup-nights.ch/)**
+    * *Date:* November 5–6, 2026
+    * *Location:* Eulachhallen Winterthur, Switzerland
 
 ---
 
-## Medicine & Healthcare
-| Event | Date | Location | Link |
-| :--- | :--- | :--- | :--- |
-| **ESMO Congress 2026** | Oct 23–27, 2026 | Madrid, ES | [Link](https://www.esmo.org/meeting-calendar/esmo-congress-2026) |
-| **ESMO AI & Digital Oncology** | TBD | TBD | [Link](https://www.esmo.org/meeting-calendar/esmo-ai-and-digital-oncology-congress-2026) |
+## 🏥 Medicine & Healthcare
+* **[ESMO AI and Digital Oncology Congress](https://www.esmo.org/meeting-calendar/esmo-ai-and-digital-oncology-congress-2026)**
+    * *Date:* TBD 2026
+    * *Location:* TBD
+* **[ESMO Congress 2026](https://www.esmo.org/meeting-calendar/esmo-congress-2026/programme)**
+    * *Date:* October 23–27, 2026
+    * *Location:* Madrid, Spain (Expected)
 
 ---
 
-## Effective Altruism (EA)
-| Event | Date | Location | Link |
-| :--- | :--- | :--- | :--- |
-| **EA Summit Brussels** | Feb 7, 2026 | Brussels, BE | [Link](https://www.effectivealtruism.org/ea-global/events/ea-summit-brussels) |
-| **EAGxNordics 2026** | April 24–26, 2026 | Stockholm, SE | [Link](https://www.effectivealtruism.org/ea-global/events/eagxnordics-2026) |
-| **EA Global London** | May 29–31, 2026 | London, UK | [Link](https://www.effectivealtruism.org/ea-global/events/ea-global-london-2026) |
+## 🌍 Effective Altruism (EA)
+* **[EA Summit Brussels](https://www.effectivealtruism.org/ea-global/events/ea-summit-brussels)**
+    * *Date:* February 7, 2026
+    * *Location:* Flagey, Place Sainte-Croix, Brussels, Belgium
+* **[EAGxNordics 2026](https://www.effectivealtruism.org/ea-global/events/eagxnordics-2026)**
+    * *Date:* April 24–26, 2026
+    * *Location:* House of People, Stockholm, Sweden
+* **[EA Global London 2026](https://www.effectivealtruism.org/ea-global/events/ea-global-london-2026)**
+    * *Date:* May 29–31, 2026
+    * *Location:* London, UK
 
 ---
 
-## External Resources
-* **ML & AI Deadlines Tracker:** [MLCiv Deadlines](https://mlciv.com/ai-deadlines/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI,EDU)
-* **Zurich Innovation Events:** [Innovation Zurich](https://innovation.zuerich/en/news/events/)
-* **ETH AI Center Events:** [ETH AI Events](https://ai.ethz.ch/news-and-events/eth-ai-center-events.html)
-* **International AI Alerts:** [Conference Alerts Zurich](https://internationalconferencealerts.com/conferences/zurich/artificial-intelligence)
-
-
+## 🔗 External Resources
+* [MLCiv AI Deadlines](https://mlciv.com/ai-deadlines/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI,EDU)
+* [Innovation Zurich Events](https://innovation.zuerich/en/news/events/)
+* [ETH AI Center Events](https://ai.ethz.ch/news-and-events/eth-ai-center-events.html)
+* [Switzerland AI Events (Eventbrite)](https://www.eventbrite.com/d/switzerland/ai-conference/)
