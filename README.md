@@ -59,10 +59,9 @@ focusing on Artificial Intelligence, Machine Learning, Healthcare, and the Start
 ## Startup & Innovation
 *Focusing on the Swiss Startup ecosystem.*
 
-* **Founders Day**
+* **[Founders Day](https://swissstartupassociation.ch/founders-day-2026/)**
     * *Date:* April 9, 2026 (10:00 – 18:30)
     * *Location:* Google Campus, Zurich
-    * [Website](https://swissstartupassociation.ch/founders-day-2026/)
 * **HealthTech Startup Roadshow**
     * *Location:* Switzerland
     * [Website](https://www.greaterzuricharea.com/en/events/healthtech-startup-roadshow-switzerland-2026)
