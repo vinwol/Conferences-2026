@@ -1,6 +1,6 @@
-# 📅 2026 Tech, AI, and Startup Conferences
+# 📅 2026 Conferences and Events
 
-A curated list of upcoming conferences and events for 2026, focusing on Artificial Intelligence, Machine Learning, Healthcare, and the Startup ecosystem.
+A curated list of upcoming conferences and events for 2026, focusing on Artificial Intelligence, Machine Learning, Effective Altruism, Healthcare, and the Startup ecosystem.
 
 ## 📌 Table of Contents
 * [AI & Machine Learning](#-ai--machine-learning)
