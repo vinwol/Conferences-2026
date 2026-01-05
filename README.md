@@ -113,7 +113,7 @@ A curated list of upcoming conferences and events for 2026, focusing on Artifici
     * *Date:* April 9, 2026 (10:00 – 18:30)
     * *Location:* Google Campus, Europaallee, Zurich
 * **[HealthTech Startup Roadshow](https://www.greaterzuricharea.com/en/events/healthtech-startup-roadshow-switzerland-2026)**
-    * *Date:* TBD 2026
+    * *Date:* April 27 - 30, 2026
     * *Location:* Greater Zurich Area, Switzerland
 * **[Startup Nights](https://www.startup-nights.ch/)**
     * *Date:* November 5–6, 2026
