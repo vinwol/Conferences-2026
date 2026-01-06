@@ -132,6 +132,7 @@ A curated list of upcoming conferences and events for 2026, focusing on Artifici
 ---
 
 ## 🌍 Effective Altruism (EA)
+* **[EA Upcoming Conferences](https://www.effectivealtruism.org/ea-global/events)**
 * **[EA Summit Brussels](https://www.effectivealtruism.org/ea-global/events/ea-summit-brussels)**
     * *Date:* February 7, 2026
     * *Location:* Flagey, Place Sainte-Croix, Brussels, Belgium
