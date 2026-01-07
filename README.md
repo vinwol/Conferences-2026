@@ -17,6 +17,9 @@ A curated list of upcoming conferences and events for 2026, focusing on Artifici
 * **[AI & Tech Networking Zürich](https://www.eventbrite.com/e/ai-tech-networking-zurich-tickets-1965146494064)**
     * *Date:* January 20, 2026 (18:00 – 21:00)
     * *Location:* Zurich, Switzerland
+* **[Zurich AI Safety Day 2026](https://zurichaisafety.day/)**
+    * *Date:* TBD
+    * *Location:* Zurich, Switzerland    
 * **[AI House Davos 2026](https://www.aihousedavos.com/)**
     * *Date:* January 2026 (During WEF)
     * *Location:* Davos, Switzerland
@@ -142,7 +145,13 @@ A curated list of upcoming conferences and events for 2026, focusing on Artifici
 * **[EA Global London 2026](https://www.effectivealtruism.org/ea-global/events/ea-global-london-2026)**
     * *Date:* May 29–31, 2026
     * *Location:* London, UK
-
+* **[EA Global San Francisco 2026](https://www.effectivealtruism.org/ea-global/events/ea-global-san-francisco-2026)**
+    * *Date:* February 13–15, 2026
+    * *Location:* San Francisco, CA, USA
+* **[EA Global New York 2026](https://www.effectivealtruism.org/ea-global/events/ea-global-new-york-city-2026)**
+    * *Date:* October 16–18, 2026
+    * *Location:* New York, NY, USA
+    
 ---
 
 ## 🔗 External Resources
