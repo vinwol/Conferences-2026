@@ -14,6 +14,12 @@ A curated list of upcoming conferences and events for 2026, focusing on Artifici
 ## 🤖 AI & Machine Learning
 
 ### 🇪🇺 Europe & Switzerland
+* **[Zurich AI Events](https://www.zurichai.ch/)**
+    * *Date:* See Website
+    * *Location:* Zurich, Switzerland
+* **[ETH AI Center Academic Talk Series (AICATS)](https://ai.ethz.ch/research/events/academic-talks.html)**
+    * *Date:* See Website
+    * *Location:* Zurich, Switzerland
 * **[AI & Tech Networking Zürich](https://www.eventbrite.com/e/ai-tech-networking-zurich-tickets-1965146494064)**
     * *Date:* January 20, 2026 (18:00 – 21:00)
     * *Location:* Zurich, Switzerland
